@@ -1,2 +1,2 @@
 # Jupyter
-ML Forecasting in jupyter
+ML, PySpark Forecasting in jupyter
